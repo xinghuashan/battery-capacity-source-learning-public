@@ -1,0 +1,123 @@
+{
+  "columns": [
+    {
+      "index": 0,
+      "name": "voltage mean",
+      "unit": "V",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 1,
+      "name": "voltage std",
+      "unit": "V",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 2,
+      "name": "voltage kurtosis",
+      "unit": "dimensionless",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 3,
+      "name": "voltage skewness",
+      "unit": "dimensionless",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 4,
+      "name": "voltage entropy",
+      "unit": "nats",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 5,
+      "name": "current mean",
+      "unit": "A",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 6,
+      "name": "current std",
+      "unit": "A",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 7,
+      "name": "current kurtosis",
+      "unit": "dimensionless",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 8,
+      "name": "current skewness",
+      "unit": "dimensionless",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 9,
+      "name": "CV Q",
+      "unit": "Ah",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 10,
+      "name": "CV charge time",
+      "unit": "s",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 11,
+      "name": "current entropy",
+      "unit": "nats",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 12,
+      "name": "routine_cycle",
+      "unit": "ordinary-cycle index",
+      "observation": "current ordinary cycle completed before next actual reference"
+    },
+    {
+      "index": 13,
+      "name": "discharge_abs_current_mean_A",
+      "unit": "A",
+      "observation": "strictly previous five ordinary-cycle mean"
+    },
+    {
+      "index": 14,
+      "name": "discharge_abs_current_std_A",
+      "unit": "A",
+      "observation": "strictly previous five ordinary-cycle mean"
+    },
+    {
+      "index": 15,
+      "name": "discharge_duration_s",
+      "unit": "s",
+      "observation": "strictly previous five ordinary-cycle mean"
+    },
+    {
+      "index": 16,
+      "name": "discharge_temperature_mean_C",
+      "unit": "degC",
+      "observation": "strictly previous five ordinary-cycle mean"
+    }
+  ],
+  "label": "next actual reference capacity_Ah / 2",
+  "prediction": "anchor_ratio + correction_pp/100",
+  "CC_window_V": [
+    4.0,
+    4.195
+  ],
+  "CC_current_min_A": 3.9,
+  "CV_current_window_A": [
+    0.1,
+    0.5
+  ],
+  "entropy": "scipy.stats.entropy of min-max shifted/scaled within-window sample values; default natural logarithm",
+  "raw_cache_to_17": "x[:, indices excluding CC Q/CC charge time] + cycle + five[:,[0,1,2,4]]",
+  "primary": "saved primary flag; eligible_rank >=4 per cell; global109 subset of auxiliary127",
+  "label_scope": "allowed six development cells only; not external confirmation",
+  "historical_extractor_source": "battery_capacity/features.py:extract",
+  "history_source": "battery_capacity/features.py:history_for"
+}

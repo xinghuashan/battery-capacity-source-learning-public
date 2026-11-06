@@ -1,0 +1,67 @@
+{
+  "input_dimensions": 17,
+  "output": "next_actual_reference_capacity_Ah / 2",
+  "prediction": "anchor_capacity_ratio + correction_pp / 100",
+  "history": "strictly_previous_5_ordinary_cycles",
+  "cells": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7
+  ],
+  "target_pairs": [
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      3,
+      7
+    ]
+  ],
+  "target_label_budget": 0,
+  "label_strides": [
+    1,
+    10
+  ],
+  "full_source_label_counts": [
+    88,
+    83,
+    83
+  ],
+  "stride10_source_label_counts": [
+    6,
+    6,
+    6
+  ],
+  "mask": "original_reference_event_ordinal % stride == 0",
+  "primary_events": 109,
+  "all_events": 127,
+  "primary_rule": "eligible_rank >= 4 within each cell",
+  "metrics": [
+    "RMSE_pp",
+    "MAE_pp"
+  ],
+  "aggregation": "equal cell macro, then seed mean",
+  "seed_standard_deviation_ddof": 0,
+  "seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "optimizer": "AdamW",
+  "optimizer_steps": 300,
+  "learning_rate": 0.001,
+  "weight_decay": 0.001,
+  "dtype": "float64",
+  "device": "CPU",
+  "threads": 1
+}

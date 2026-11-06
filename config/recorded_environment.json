@@ -1,0 +1,20 @@
+{
+  "python": "3.13.2 | packaged by Anaconda, Inc. | (main, Feb  6 2025, 18:49:14) [MSC v.1929 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "packages": {
+    "numpy": "2.4.4",
+    "scipy": "1.15.3",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.7.0",
+    "joblib": "1.5.1",
+    "torch": "2.11.0+cu128",
+    "matplotlib": "3.10.3",
+    "psutil": "5.9.0",
+    "threadpoolctl": "3.6.0",
+    "Pillow": "12.2.0",
+    "sympy": "1.14.0"
+  },
+  "original_model_execution": "CPU float64, one thread",
+  "summary_runtime": "Python standard library only",
+  "captured_environment_not_cross_platform_runtime_guarantee": true
+}

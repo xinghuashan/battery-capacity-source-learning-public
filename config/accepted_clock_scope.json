@@ -1,0 +1,71 @@
+{
+  "scope": "Published MAT record order and native phase-relative time only; system_time is preserved and excluded from ordering, inputs, durations, and features.",
+  "original_amendment_id": "rw_multicell_20261008_prefit_clock_scope_v1",
+  "original_amendment_sha256": "f17a6cf838ff92db21118a1f5bd7f4841346d02529398d7357afd1c21972da51",
+  "original_prefit": true,
+  "original_observed_research_fits_at_decision": 0,
+  "cells": {
+    "RW_battery-1.mat": {
+      "raw_sha256": "59eb49feb67ddb16445311d729b377366e5ed2dc78dc60ec2bcf82ff8b9ee12b",
+      "eligible_events": 16
+    },
+    "RW_battery-2.mat": {
+      "raw_sha256": "83b7a53149bf2d16acfce2d30f873c8fa3841b7822280cc1723dde6f77728086",
+      "eligible_events": 26
+    },
+    "RW_battery-3.mat": {
+      "raw_sha256": "8b535c3c0add08e8e4cc16d5c956cf50a81605b6bdb6956e91f9a2fd233b9c2e",
+      "eligible_events": 29
+    },
+    "RW_battery-5.mat": {
+      "raw_sha256": "01d2da6145cd9f2c5399591bfa194fedff863403e7d9fc66d953fb89534073bd",
+      "eligible_events": 23
+    },
+    "RW_battery-6.mat": {
+      "raw_sha256": "5ea01d2969d28c8ad622c2f95f254ae0bc1a22b07558b9a18abba28b823e9693",
+      "eligible_events": 18
+    },
+    "RW_battery-7.mat": {
+      "raw_sha256": "9448ac306dea7b8760683bcffdf5605b49ac6c083e8bd5c82920e55d4dd9c3a8",
+      "eligible_events": 15
+    }
+  },
+  "allowed_documented_clock_exceptions": [
+    {
+      "cell": "RW_battery-2.mat",
+      "raw_record": 219,
+      "index_before_zero_based": 1908,
+      "index_after_zero_based": 1909,
+      "delta_seconds": -59,
+      "selected_feature": false,
+      "selected_target": true
+    },
+    {
+      "cell": "RW_battery-3.mat",
+      "raw_record": 218,
+      "index_before_zero_based": 23,
+      "index_after_zero_based": 24,
+      "delta_seconds": -59,
+      "selected_feature": true,
+      "selected_target": false
+    },
+    {
+      "cell": "RW_battery-5.mat",
+      "raw_record": 217,
+      "index_before_zero_based": 4322,
+      "index_after_zero_based": 4323,
+      "delta_seconds": -59,
+      "selected_feature": false,
+      "selected_target": false
+    },
+    {
+      "cell": "RW_battery-6.mat",
+      "raw_record": 215,
+      "index_before_zero_based": 4049,
+      "index_after_zero_based": 4050,
+      "delta_seconds": -59,
+      "selected_feature": false,
+      "selected_target": false
+    }
+  ]
+}

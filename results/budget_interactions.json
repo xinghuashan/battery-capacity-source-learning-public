@@ -1,0 +1,1274 @@
+[
+  {
+    "baseline": "M03",
+    "role": "primary",
+    "value": 0.12453307663822161,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.4516014207311446
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.23361376526103703
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -1.053481994805355
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.5694588125882162
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.1558171373416541
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.10577564793782175
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5022142435617118
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.38024389310329343
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.26371492484161496
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.44619805774888366
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.32503688449131557
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.059517789835469265
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.3834817050197233
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.3056284607246723
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.26807130386822137
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.5253195063268817
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.19837763558435165
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.01953552593846042
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.30805232031302254
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.206420837789673
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.6851964067361958
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.46366943320066506
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.15037124008032104
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.0940524217126707
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.38928821048291923
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.21735750973736756
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.862619928549909
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.3933280181375618
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.3635443608372696
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.05989921063974263
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "M06",
+    "role": "supplementary",
+    "value": 0.06149319041638536,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.19015794385931836
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.04386710525354833
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.24492410586492644
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.14411948362535373
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.022837054947529106
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.29729948806160944
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.08899341675268392
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.09458477301513196
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.11831306313093032
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.2273499288241892
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.3042670387601138
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.16870623932918033
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.23467000276081368
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.15413750019575317
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.21649079279890807
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.3763522241320921
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.1621708829664479
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.1498477748382991
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.033409073627436094
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.03056959945606642
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.4115525368102167
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.14201004102863035
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.18041424236775996
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.311546311286301
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.05386565922076249
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.017146355782340812
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.003015892560235184
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.07349232309556629
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.26158345260877586
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.02425614998929561
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "M04",
+    "role": "descriptive",
+    "value": 0.16477309972939455,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.0017991963366941546
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.5287665845418019
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.5940101286389333
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.49518127254262334
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.07253538821870958
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.33044668600943866
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.15932215248499657
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.9051974279405297
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5823228216916019
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.2734004354392821
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5350967468511193
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.007588696220814595
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.06463187006850107
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.9759680462503588
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.14473497608020236
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.09066571756302223
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.4856626258858466
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.4139030590548274
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.1357879682576183
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.661061154930409
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.2681744653102615
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.0016610382795842482
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.18995320986511186
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.1627370616585123
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.07205504144429764
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.6681539332357258
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.06096109527296793
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.340122582716822
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.05642895590625002
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.24373907028689007
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "Ridge",
+    "role": "descriptive",
+    "value": 0.12059727748747719,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.4345618936576854
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.28908785461806213
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -1.0803276593106659
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.6952457059064288
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.1628550420695502
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.047198097278770404
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5268330060592501
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.28667274170008145
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.34166002118383104
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5907678736312902
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.1965049092226614
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.09253253481351609
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.4411919559422799
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.24328055188038242
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.3140457793473217
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.6709296939265685
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.09839591224560934
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.17637108533075127
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.4395705389976835
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.27412228350745044
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.6799849195782321
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.7102060124775924
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.0209542819935217
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.19657794025726147
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.40273443486488897
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.2302229586718429
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.9214812400831859
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.4670414062735214
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.33826621688438596
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.0513476727228859
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "M01",
+    "role": "descriptive",
+    "value": 0.12356173510431717,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.27893456023953284
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.2603353026407055
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -1.0389671206133286
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.32175768311575875
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.4530528848878748
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.19689817509278695
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.37120567264109755
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.25792018972272485
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.3002994824864939
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.21727985084062004
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.48670275204098606
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.1515637375580414
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.2855646225241273
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.2145279999030259
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.27268524064998456
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.29744167113589826
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.3885937550639341
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.06772518704080616
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.28394320557953096
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.24536973153009362
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.6386243808808949
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.33671798968692224
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.3111521248118465
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.0475183321142959
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.24710710144673637
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.20147040669448643
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.8801207013858486
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.09355338348285139
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.6284640597027107
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.19274859964867136
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "B3",
+    "role": "descriptive",
+    "value": 0.27350477946549734,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.25022945779767175
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.15676741015016107
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.3152643064273851
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.2975766191357335
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.3493767913540238
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.038463687848925454
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.25054633694141776
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.40511026555279167
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.3183108927402133
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.19663901233714842
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.35978682239088833
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.6569120844303313
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.2702797142431826
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.1595215810908626
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.5427248995291734
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.31638439953096414
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.6223392005442284
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.27709671910923234
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.1802907412181412
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.19923717077000166
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.48922979393899224
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.09108230814754453
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.40802062103915304
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.4036894550603325
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.21172107816456848
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.15535561332872017
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.02265825926746169
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.2882796171331521
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.5192323944686333
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.31102587795866565
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "N01",
+    "role": "descriptive",
+    "value": 0.3317071249548917,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.30373845765880925
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.17115450598711585
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.2827563767373621
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.6176021729562395
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.4560425678861491
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.18548246217848174
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.25450117327631355
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.4144141399769361
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5778713052455052
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.4854537002265042
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.6459540361588175
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5455472976355862
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.290421468320381
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.19629751440578994
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.5870548963056601
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.5542185879304256
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.7065955327365762
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.0012692542985183741
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.20765535924286307
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.15578054365959715
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.1671271674478931
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.39101616329019717
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.5529288437764056
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.004185023523275266
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.315724136250536
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.14439481612712013
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.3718690340672476
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.4723767312751536
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.6733133796451236
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.1549447782518571
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  },
+  {
+    "baseline": "KRR",
+    "role": "descriptive",
+    "value": 0.1458597111634908,
+    "undefined": false,
+    "cell_seed_values": [
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.5224255388009325
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.33841288445545425
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 0,
+        "log_budget_interaction": -0.9855445732791828
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.6196356297456792
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.09840164918073085
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 0,
+        "log_budget_interaction": 0.012468212814758281
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.614696651202497
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.3359977715374738
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.24687693515234801
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.5151577974705406
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 1,
+        "log_budget_interaction": 0.13205151633384193
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 1,
+        "log_budget_interaction": -0.032866224719987375
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.5290556010855268
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.29260558171777484
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.21926269331583867
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.5953196177658185
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 2,
+        "log_budget_interaction": 0.03394251935679002
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 2,
+        "log_budget_interaction": -0.11670477523722261
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.5274341841409306
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.32344731334484267
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.5852018335467493
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 3,
+        "log_budget_interaction": 0.6345959363168425
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.043499110895297594
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 3,
+        "log_budget_interaction": -0.13691163016373276
+      },
+      {
+        "cell": "RW_battery-1.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.490598080008136
+      },
+      {
+        "cell": "RW_battery-2.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.27954798850923523
+      },
+      {
+        "cell": "RW_battery-3.mat",
+        "seed": 4,
+        "log_budget_interaction": -0.8266981540517029
+      },
+      {
+        "cell": "RW_battery-5.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.39143133011277187
+      },
+      {
+        "cell": "RW_battery-6.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.27381282399556667
+      },
+      {
+        "cell": "RW_battery-7.mat",
+        "seed": 4,
+        "log_budget_interaction": 0.008318637370642812
+      }
+    ],
+    "interpretation": "protocol difference, not pure label-count causal effect"
+  }
+]

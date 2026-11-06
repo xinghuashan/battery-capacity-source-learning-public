@@ -1,0 +1,450 @@
+[
+  {
+    "baseline": "M03",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.2449028892500804,
+      "RW_battery-2.mat": -0.15767283433586465,
+      "RW_battery-3.mat": 0.5533353739002823,
+      "RW_battery-5.mat": -0.18893782679271534,
+      "RW_battery-6.mat": -0.004999381540482961,
+      "RW_battery-7.mat": 0.08482361796976624
+    },
+    "positive_maximum_share": 0.8670807446884031,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.05730978984019712,
+      "RW_battery-2.mat": 0.03986377885735397,
+      "RW_battery-3.mat": -0.10233786278987542,
+      "RW_battery-5.mat": 0.0461167773487241,
+      "RW_battery-6.mat": 0.00932908829827763,
+      "RW_battery-7.mat": -0.008635511603772211
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.11887169399842523,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.051079568956813204,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.14912823297978584
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M03",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": 0.30000429175724824,
+      "RW_battery-2.mat": 0.14426801611731738,
+      "RW_battery-3.mat": 0.23488546188706053,
+      "RW_battery-5.mat": 0.41592969594449014,
+      "RW_battery-6.mat": 0.5593643599619635,
+      "RW_battery-7.mat": 0.37666814400158427
+    },
+    "positive_maximum_share": 0.2753970067326634,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.34622313558248313,
+      "RW_battery-2.mat": 0.37737039071046935,
+      "RW_battery-3.mat": 0.35924690155652067,
+      "RW_battery-5.mat": 0.3230380547450348,
+      "RW_battery-6.mat": 0.2943511219415401,
+      "RW_battery-7.mat": 0.33089036513361597
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.3287964954919814,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.3318718983975958,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.3548915909452548
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M06",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.043957742951995435,
+      "RW_battery-2.mat": -0.07829476489831406,
+      "RW_battery-3.mat": -0.06322281603604218,
+      "RW_battery-5.mat": -0.03707084686985711,
+      "RW_battery-6.mat": -0.043002327088211126,
+      "RW_battery-7.mat": 0.14585638037360676
+    },
+    "positive_maximum_share": 1.0,
+    "delete_single_cell": {
+      "RW_battery-1.mat": -0.01514687490376354,
+      "RW_battery-2.mat": -0.00827947051449982,
+      "RW_battery-3.mat": -0.011293860286954194,
+      "RW_battery-5.mat": -0.016524254120191206,
+      "RW_battery-6.mat": -0.015337958076520409,
+      "RW_battery-7.mat": -0.053109699568883985
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": -0.009665881912240146,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.0004012436289280094,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.05058142045209443
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M06",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": 0.1524380582554719,
+      "RW_battery-2.mat": -0.09424639676007499,
+      "RW_battery-3.mat": -0.04905721161540244,
+      "RW_battery-5.mat": 0.2785051338826773,
+      "RW_battery-6.mat": 0.11964146363852199,
+      "RW_battery-7.mat": 0.15450782918422404
+    },
+    "positive_maximum_share": 0.3949909264713313,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.08187016366598918,
+      "RW_battery-2.mat": 0.13120705466909854,
+      "RW_battery-3.mat": 0.12216921764016404,
+      "RW_battery-5.mat": 0.0566567485405481,
+      "RW_battery-6.mat": 0.08842948258937915,
+      "RW_battery-7.mat": 0.08145620948023875
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.03271142111181715,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.1340984524267427,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.11408456475414905
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M04",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.019921499454078728,
+      "RW_battery-2.mat": -0.4190984961457456,
+      "RW_battery-3.mat": -0.017333015869144576,
+      "RW_battery-5.mat": -0.008212532642087166,
+      "RW_battery-6.mat": 0.16745548715879394,
+      "RW_battery-7.mat": 0.24711978939873855
+    },
+    "positive_maximum_share": 0.5960794175926809,
+    "delete_single_cell": {
+      "RW_battery-1.mat": -0.006013753619888979,
+      "RW_battery-2.mat": 0.0738216457184444,
+      "RW_battery-3.mat": -0.0065314503368758044,
+      "RW_battery-5.mat": -0.008355546982287293,
+      "RW_battery-6.mat": -0.043489150942463514,
+      "RW_battery-7.mat": -0.05942201139045243
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": -0.005464058864339434,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.050413185358357024,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.0699442602707794
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M04",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": 0.07370814476263536,
+      "RW_battery-2.mat": 0.2526414502283854,
+      "RW_battery-3.mat": 0.11830326707304599,
+      "RW_battery-5.mat": 0.1280790761637279,
+      "RW_battery-6.mat": 0.950839548956746,
+      "RW_battery-7.mat": 0.46007627707259013
+    },
+    "positive_maximum_share": 0.4793389058731564,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.38198792389889913,
+      "RW_battery-2.mat": 0.3462012628057491,
+      "RW_battery-3.mat": 0.373068899436817,
+      "RW_battery-5.mat": 0.3711137376186806,
+      "RW_battery-6.mat": 0.20656164306007696,
+      "RW_battery-7.mat": 0.30471429743690814
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.44546513583269187,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.19504169126799986,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.3513170550278737
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "Ridge",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.22594562702713844,
+      "RW_battery-2.mat": -0.14997681982842415,
+      "RW_battery-3.mat": 0.5936676704199229,
+      "RW_battery-5.mat": -0.2311987832886664,
+      "RW_battery-6.mat": 0.038581912118737315,
+      "RW_battery-7.mat": 0.1021037731737846
+    },
+    "positive_maximum_share": 0.8084223566241712,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.07063555051907085,
+      "RW_battery-2.mat": 0.055441789079327994,
+      "RW_battery-3.mat": -0.09328710897034143,
+      "RW_battery-5.mat": 0.07168618177137644,
+      "RW_battery-6.mat": 0.017730042689895698,
+      "RW_battery-7.mat": 0.005025670478886239
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.14609413397100515,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.05965675831947566,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.14213482950637293
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "Ridge",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": 0.4501356236968748,
+      "RW_battery-2.mat": 0.15628878596187565,
+      "RW_battery-3.mat": 0.2254727342212935,
+      "RW_battery-5.mat": 0.5875742062601155,
+      "RW_battery-6.mat": 0.5039034763421301,
+      "RW_battery-7.mat": 0.19409151945011088
+    },
+    "positive_maximum_share": 0.27748927740402146,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.3334661444471051,
+      "RW_battery-2.mat": 0.3922355119941049,
+      "RW_battery-3.mat": 0.3783987223422213,
+      "RW_battery-5.mat": 0.30597842793445695,
+      "RW_battery-6.mat": 0.3227125739180541,
+      "RW_battery-7.mat": 0.38467496529645795
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.26993912899385253,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.36431852090709865,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.42447552306524894
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M01",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.26750290736595855,
+      "RW_battery-2.mat": -0.13554721755484422,
+      "RW_battery-3.mat": 0.49305472175180054,
+      "RW_battery-5.mat": -0.19062998707986392,
+      "RW_battery-6.mat": 0.02195743728370505,
+      "RW_battery-7.mat": 0.07922194024531849
+    },
+    "positive_maximum_share": 0.8297314515416121,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.053611378929223186,
+      "RW_battery-2.mat": 0.02722024096700032,
+      "RW_battery-3.mat": -0.09850014689432865,
+      "RW_battery-5.mat": 0.038236794872004265,
+      "RW_battery-6.mat": -0.004280690000709533,
+      "RW_battery-7.mat": -0.01573359059303222
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.11467172043149496,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.02853594188782414,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.14293066867924042
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "M01",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.0009725397497044152,
+      "RW_battery-2.mat": 0.13732409370215234,
+      "RW_battery-3.mat": 0.11428163779859761,
+      "RW_battery-5.mat": -0.052166482314121375,
+      "RW_battery-6.mat": 1.3045786402476462,
+      "RW_battery-7.mat": 0.8040745914743577
+    },
+    "positive_maximum_share": 0.552726908604276,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.46161849618172646,
+      "RW_battery-2.mat": 0.4339591694913551,
+      "RW_battery-3.mat": 0.43856766067206615,
+      "RW_battery-5.mat": 0.4718572846946099,
+      "RW_battery-6.mat": 0.20050826018225637,
+      "RW_battery-7.mat": 0.30060906993691405
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.5900647408056885,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.21630430180228238,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.3471909279714932
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "B3",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.2208189585542831,
+      "RW_battery-2.mat": -0.03839108907683022,
+      "RW_battery-3.mat": -0.09970223435685156,
+      "RW_battery-5.mat": -0.10502099445614665,
+      "RW_battery-6.mat": 0.04167362451625878,
+      "RW_battery-7.mat": 0.1034115055781388
+    },
+    "positive_maximum_share": 0.7127643302305038,
+    "delete_single_cell": {
+      "RW_battery-1.mat": -0.01960583755908617,
+      "RW_battery-2.mat": -0.056091411454576745,
+      "RW_battery-3.mat": -0.04382918239857248,
+      "RW_battery-5.mat": -0.04276543037871346,
+      "RW_battery-6.mat": -0.07210435417319454,
+      "RW_battery-7.mat": -0.08445193038557056
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.0017479516651789512,
+      "RW_battery-2.mat+RW_battery-6.mat": -0.08053267044728563,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.0806393543927503
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "B3",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.00531616322101156,
+      "RW_battery-2.mat": 0.31378965479919996,
+      "RW_battery-3.mat": 0.018251183120017167,
+      "RW_battery-5.mat": 0.08375330024568935,
+      "RW_battery-6.mat": 1.39316665812299,
+      "RW_battery-7.mat": 1.6736036960540044
+    },
+    "positive_maximum_share": 0.48056646179395385,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.6965128984683802,
+      "RW_battery-2.mat": 0.6326917348643379,
+      "RW_battery-3.mat": 0.6917994292001743,
+      "RW_battery-5.mat": 0.6786990057750399,
+      "RW_battery-6.mat": 0.41681633419957986,
+      "RW_battery-7.mat": 0.36072892661337697
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.8497027980240528,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.4425730040496748,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.44634836248671694
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "N01",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.22495857464591823,
+      "RW_battery-2.mat": -0.03969071676816405,
+      "RW_battery-3.mat": -0.13178807772222467,
+      "RW_battery-5.mat": -0.2573054425829924,
+      "RW_battery-6.mat": -0.03778133887976291,
+      "RW_battery-7.mat": 0.11546657855244238
+    },
+    "positive_maximum_share": 1.0,
+    "delete_single_cell": {
+      "RW_battery-1.mat": -0.07021979948014034,
+      "RW_battery-2.mat": -0.10727337105569117,
+      "RW_battery-3.mat": -0.08885389886487904,
+      "RW_battery-5.mat": -0.0637504258927255,
+      "RW_battery-6.mat": -0.10765524663337141,
+      "RW_battery-7.mat": -0.13830483011981246
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": -0.023448388704427316,
+      "RW_battery-2.mat+RW_battery-6.mat": -0.12464637909967324,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.1399340182192094
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "N01",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": 0.06511335821948512,
+      "RW_battery-2.mat": 0.3118507391734783,
+      "RW_battery-3.mat": 0.05401397867999043,
+      "RW_battery-5.mat": 0.19554760768638907,
+      "RW_battery-6.mat": 1.5787517368401107,
+      "RW_battery-7.mat": 0.8625480707583879
+    },
+    "positive_maximum_share": 0.5146158871446576,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.6005424266276712,
+      "RW_battery-2.mat": 0.5511949504368727,
+      "RW_battery-3.mat": 0.6027623025355702,
+      "RW_battery-5.mat": 0.5744555767342905,
+      "RW_battery-6.mat": 0.29781475090354614,
+      "RW_battery-7.mat": 0.4410554841198907
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.7017911313629919,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.29430575383606317,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.5378158604798657
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "KRR",
+    "stride": 1,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": -0.29864926691973953,
+      "RW_battery-2.mat": -0.18844518104914698,
+      "RW_battery-3.mat": 0.45070963495083455,
+      "RW_battery-5.mat": -0.2098326671477948,
+      "RW_battery-6.mat": 0.09253143603799821,
+      "RW_battery-7.mat": 0.08688130679693175
+    },
+    "positive_maximum_share": 0.7152731768305354,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.04636890591776455,
+      "RW_battery-2.mat": 0.024328088743646035,
+      "RW_battery-3.mat": -0.10350287445635029,
+      "RW_battery-5.mat": 0.0286055859633756,
+      "RW_battery-6.mat": -0.03186723467378301,
+      "RW_battery-7.mat": -0.030737208825569712
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.11041929918415438,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.00727725192005799,
+      "RW_battery-3.mat+RW_battery-7.mat": -0.1510989197696708
+    },
+    "descriptive_only": true,
+    "retraining": false
+  },
+  {
+    "baseline": "KRR",
+    "stride": 10,
+    "cell_mean_effects": {
+      "RW_battery-1.mat": 0.43928629567496263,
+      "RW_battery-2.mat": 0.15487976409490142,
+      "RW_battery-3.mat": 0.1384089215240159,
+      "RW_battery-5.mat": 0.4977423064154765,
+      "RW_battery-6.mat": 0.5058104960779525,
+      "RW_battery-7.mat": 0.2871183687160032
+    },
+    "positive_maximum_share": 0.24999948496238372,
+    "delete_single_cell": {
+      "RW_battery-1.mat": 0.3167919713656699,
+      "RW_battery-2.mat": 0.3736732776816822,
+      "RW_battery-3.mat": 0.3769674461958593,
+      "RW_battery-5.mat": 0.3051007692175671,
+      "RW_battery-6.mat": 0.30348713128507193,
+      "RW_battery-7.mat": 0.3472255567574618
+    },
+    "delete_target_pair": {
+      "RW_battery-1.mat+RW_battery-5.mat": 0.27155438760321826,
+      "RW_battery-2.mat+RW_battery-6.mat": 0.3406389730826146,
+      "RW_battery-3.mat+RW_battery-7.mat": 0.3994297155658233
+    },
+    "descriptive_only": true,
+    "retraining": false
+  }
+]

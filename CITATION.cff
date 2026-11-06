@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: >-
+  Cite this repository and the exact commit used when its code or archived
+  numerical results contribute to your work. This record identifies the
+  scientific code and archived numerical results used by the manuscript.
+  See README.md for original dataset attribution.
+type: software
+title: "battery-capacity-source-learning: code and archived numerical results"
+authors:
+  - family-names: Shan
+    given-names: Xinghua
+  - family-names: Jia
+    given-names: Juntao
+  - family-names: Zhang
+    given-names: Junjia
+  - family-names: Shao
+    given-names: Yijia
+repository-code: "https://github.com/xinghuashan/battery-capacity-source-learning-public"
+url: "https://github.com/xinghuashan/battery-capacity-source-learning-public/tree/v1.0.0"
+version: v1.0.0
+date-released: "2026-11-06"
