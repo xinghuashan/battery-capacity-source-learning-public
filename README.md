@@ -245,7 +245,7 @@ Use [CITATION.cff](CITATION.cff) for software citation metadata. Research credit
 follows the confirmed manuscript author order; it does not assign individual
 programming roles. For the scientific snapshot used in the manuscript:
 
-> Shan, X., Jia, J., Zhang, J., & Shao, Y. (2026).
+> Shan, X., Jia, J., Zhang, J., Sheng, P., & Shao, Y. (2026).
 > *battery-capacity-source-learning: code and archived numerical results*
 > [Computer software]. Version v1.0.0.
 > https://github.com/xinghuashan/battery-capacity-source-learning-public/tree/v1.0.0
