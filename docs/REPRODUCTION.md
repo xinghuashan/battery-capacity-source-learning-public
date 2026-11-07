@@ -141,7 +141,12 @@ python scripts/plot_overview.py --output outputs/overview
 
 The overview script remains a compact replot from saved scores. The complete
 `battery_capacity.figures` command regenerates all five numerical figures
-from freshly computed analysis tables. Exact manuscript figure assets remain
-in `figures/`; regenerated layouts need not be pixel-identical to those assets.
+from freshly computed analysis tables. Archived figure exports remain in
+`figures/`; regenerated layouts need not be pixel-identical to those exports.
+The archived PDFs also differ in page dimensions, metadata and file hashes
+from manuscript version `v20261106_17_energy_reports`; see the
+[figure asset verification](VERIFICATION.md#figure-asset-version-scope).
+Numerical agreement is checked against the archived results separately from
+file-byte or rendering identity.
 The package does not include raw MAT files, pretrained models,
 manuscript drafts, unrelated experiment screens, or private development logs.

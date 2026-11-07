@@ -1,5 +1,11 @@
 # Paper figure captions
 
+These captions accompany the archived numerical figure exports in this
+repository. The corresponding PDFs in manuscript version
+`v20261106_17_energy_reports` have different page dimensions, metadata and
+file hashes. See [figure asset verification](../docs/VERIFICATION.md#figure-asset-version-scope)
+for the content-comparison scope and the exact PDF hashes.
+
 Figure 2. Cell-macro errors for the thirteen estimators under two source-label schedules. Small colored circles show five seed results, diamonds their means, and open circles deterministic results. M05 is highlighted. Panel ranges differ by budget and metric; all errors are in pp.
 
 Figure 3. Stride10 predictions at all 109 primary events in six development cells. Black markers show measured next-reference capacity, blue dashed lines Ridge, and orange traces all five M05 seeds. Capacity is normalized by 2 Ah; the horizontal axis is the input ordinary-cycle index. Connecting lines are visual guides.

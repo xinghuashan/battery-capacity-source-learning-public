@@ -165,8 +165,17 @@ for the distinction and [experiment coverage](docs/EXPERIMENT_COVERAGE.md).
 | 5 | Robustness analyses | [PNG](figures/figure_05_robustness.png) |
 | 6 | Correction diagnostics | [PNG](figures/figure_06_correction_diagnostics.png) |
 
-All figure files are copied without numerical or graphical changes from the
-final manuscript assets. PDF and SVG versions are supplied beside each PNG.
+The files in `figures/` are the archived numerical figure exports supplied
+with the scientific snapshot; PDF and SVG versions accompany each PNG.
+The corresponding PDFs in manuscript version `v20261106_17_energy_reports`
+have different page dimensions, metadata and SHA-256 hashes, consistent with
+resizing and re-export for submission. The figure-content comparison supports
+consistency of the displayed scientific content, not byte identity with that
+submission version. See [figure asset verification](docs/VERIFICATION.md#figure-asset-version-scope)
+for the comparison scope.
+
+中文说明：仓库保留归档数值图。当前投稿版 PDF 的尺寸、元数据和文件哈希与仓库版本不同，
+与投稿排版中的尺寸调整及重新导出相容；已核对的图形内容一致性不等于文件字节完全一致。
 
 ## Code license
 
